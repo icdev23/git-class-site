@@ -1,0 +1,7 @@
+# Segredos — nunca entram no repositório
+.env
+.env.*
+
+# Lixo do sistema operativo
+Thumbs.db
+.DS_Store
