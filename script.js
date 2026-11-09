@@ -2,7 +2,7 @@ let cliques = 0;
 const contador = document.getElementById("contador");
 
 function atualizarContador() {
-  contador.textContent = `Total de Cliques: ${cliques}`;
+  contador.textContent = `Cliques: ${cliques}`;
 }
 
 document.getElementById("botao").addEventListener("click", () => {
